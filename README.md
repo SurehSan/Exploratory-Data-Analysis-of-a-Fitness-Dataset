@@ -7,16 +7,24 @@ An EDA of a fitness dataset with comprehensive data visualizations and conclusiv
 
 
 ## What was the result?
-- I got many helpful insights such as 
+- I got many helpful insights such as optimal workout routine aswell as dietary macros to focus on depending on individual's goals
 
 
 ## What skills did I develop?
-- 
-
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Numpy
+- Data Aggregration
+- Data Clearning
+- Feature Engineering
+- Descriptive Statistics
 
 
 ## Applications for future work?
-
+- Larger datasets for healthcare information
+- Electronic Healthcare Records (EHR)
 
 
 
